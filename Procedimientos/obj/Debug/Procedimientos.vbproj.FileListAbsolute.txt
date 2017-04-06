@@ -1,0 +1,11 @@
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\bin\Debug\Procedimientos.xml
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbprojResolveAssemblyReference.cache
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Form1.resources
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
+C:\Users\miche\Documents\Visual Studio 2017\Tutos\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
